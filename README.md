@@ -1,89 +1,116 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=00F2FE&center=true&vCenter=true&width=700&lines=Hi+there,+I'm+Dipanshu+Chouhan;+Passionate+Software+Developer;+Building+Innovative+Solutions..." alt="Typing SVG" />
+<!-- PREMIUM CAPSULED WAVE HEADER WITH GENERATIVE GLOW -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/type=cyberpunk&color=00F2FE&height=200&section=header&text=DIPANSHU%20CHOUHAN&fontSize=65&fontColor=ffffff&animation=fadeIn" width="100%" alt="Header Banner" />
+</p>
 
-  <p align="center">
-    <a href="https://github.com/Dipanshu-Chouhan-01">
-      <img src="https://img.shields.io/github/followers/Dipanshu-Chouhan-01?logo=github&style=for-the-badge&color=00F2FE&labelColor=111" alt="Followers">
-    </a>
-    <img src="https://img.shields.io/badge/Maintained%3F-Yes-00F2FE?style=for-the-badge&labelColor=111" alt="Maintained">
-  </p>
+<!-- ADVANCED TYPING ANIMATION (GEN-Z LOGS) -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=750&lines=%E2%9E%A4+Initializing+Developer+Protocol...;%E2%9E%A4+Specialized+in+Java+%26+Python+Ecosystems;%E2%9E%A4+Building+Next-Gen+Automation+Tools...;%E2%9E%A4+Fueled+by+Caffeine+%26+Clean+Code..." alt="Typing SVG" />
 </div>
+
+<!-- DYNAMIC INTERACTIVE BADGES -->
+<p align="center">
+  <a href="https://github.com/Dipanshu-Chouhan-01">
+    <img src="https://img.shields.io/github/followers/Dipanshu-Chouhan-01?logo=github&style=for-the-badge&color=00F2FE&labelColor=0D1117&logoColor=00F2FE" alt="Followers">
+  </a>
+  <img src="https://img.shields.io/badge/Status-Hacking%20Mode-00F2FE?style=for-the-badge&labelColor=0D1117&logo=matrix&logoColor=00F2FE" alt="Status">
+  <img src="https://img.shields.io/badge/Vibe-Gen%20Z%20%2F%20Aesthetic-00F2FE?style=for-the-badge&labelColor=0D1117" alt="Vibe">
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Dipanshu-Chouhan-01&color=00F2FE&style=flat-square&label=PROFILE+VIEWS++%E2%9A%A1" alt="Profile Views" />
+</p>
 
 ---
 
-## 💫 About Me
+## 🪐 THE MATRIX (About Me)
 
-<table align="center" width="100%">
+<table align="center" width="100%" style="border: none; background: transparent;">
   <tr>
-    <td width="60%" valign="top">
-      <p>🚀 Welcome to my digital space! I am a forward-thinking developer focused on building efficient applications and exploring modern technologies.</p>
-      <ul>
-        <li>🤖 Exploring the depths of <b>Java</b> and <b>Python</b> ecosystems.</li>
-        <li>💡 Passionate about automation, backend engineering, and AI tools.</li>
-        <li>🛠️ Currently refining my skills through real-world projects and active coding.</li>
-      </ul>
+    <td width="55%" valign="top" style="border: none;">
+      <p>🔮 <b>Hey Space Cowboy!</b> Welcome to my digital playground. I transform complex logical problems into smooth, automated, and highly interactive applications.</p>
+      <br/>
+      <p>⚡ <b>Current status:</b> Breakdancing with algorithms and optimizing loops.</p>
+      <p>🛸 <b>Obsession:</b> Clean architectures, lightweight scripting, and high-performance execution.</p>
+      <p>🌱 <b>Learning Curve:</b> Scaling applications and mastering deep system microservices.</p>
     </td>
-    <td width="40%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=Dipanshu-Chouhan-01&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F2FE&icon_color=00F2FE" width="100%"/>
+    <td width="45%" align="center" style="border: none;">
+      <!-- GLOWING PROFILE METRICS CARD -->
+      <img src="https://github-readme-stats.vercel.app/api?username=Dipanshu-Chouhan-01&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F2FE&icon_color=00F2FE&text_color=ffffff" width="100%"/>
     </td>
   </tr>
 </table>
 
 ---
 
-## 🛠️ Tech Stack & Skills
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-</p>
-
----
-
-## 🚀 Featured Projects
-
-Aapke latest development activity ke do mahatvapurna minor projects:
-
-### 🎙️ 1. Hey Buddy (Voice & Text Assistant)
-* **Repository:** [`Hey-Buddy-Voice-And-Text`](https://github.com/Dipanshu-Chouhan-01/Hey-Buddy-Voice-And-Text...)
-* **Tech Stack:** Python, Speech Recognition, AI APIs
-* **Features:**
-  * Voice commands capabilities for hands-free interactions.
-  * Intelligent text response system.
-
-### 🎬 2. Video Clip Generator
-* **Repository:** [`video-clip-generator`](https://github.com/Dipanshu-Chouhan-01/video-clip-generator)
-* **Tech Stack:** Python, Video Processing Libraries
-* **Features:**
-  * Automated clip extraction based on custom inputs.
-  * Lightweight and developer-friendly automation tool.
-
----
-
-## 📊 GitHub Metrics & Insights
+## 🛠️ ARCHITECTURE & TECH STACK
 
 <div align="center">
-  <table border="0">
+  <!-- Programming Languages -->
+  <img src="https://skillicons.dev/icons?i=python,java,git,github,vscode,pycharm&theme=dark" alt="My Skills" />
+</div>
+
+---
+
+## ⚡ FEATURED OPERATIONS (Minor Projects)
+
+<div align="center">
+  <table width="100%">
     <tr>
-      <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dipanshu-Chouhan-01&theme=tokyonight&hide_border=true&background=0D1117&sideNums=00F2FE&sideTitle=00F2FE" alt="GitHub Streak" />
+      <!-- Project 1 -->
+      <td width="50%" valign="top">
+        <h3>🎙️ Hey Buddy</h3>
+        <p align="left">
+          <img src="https://img.shields.io/badge/Focus-Voice%20%26%20Text%20AI-00F2FE?style=flat-square" alt="Focus" />
+        </p>
+        <p>An intelligent, context-aware digital companion designed to map voice commands and generate instant, multi-threaded text-to-speech automations.</p>
+        <p>💻 <b>Stack:</b> <code>Python</code>, <code>Speech Recognition</code>, <code>AI APIs</code></p>
+        <a href="https://github.com/Dipanshu-Chouhan-01/Hey-Buddy-Voice-And-Text...">
+          <img src="https://img.shields.io/badge/ACCESS%20REPO-%E2%9E%A4-00F2FE?style=for-the-badge&labelColor=111" alt="Repo"/>
+        </a>
       </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dipanshu-Chouhan-01&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F2FE" alt="Top Languages" />
+      <!-- Project 2 -->
+      <td width="50%" valign="top">
+        <h3>🎬 Video Clip Generator</h3>
+        <p align="left">
+          <img src="https://img.shields.io/badge/Focus-Automation%20%2F%20Media-00F2FE?style=flat-square" alt="Focus" />
+        </p>
+        <p>A smart scripting engine built to dynamically analyze media files, slice timestamps, and generate optimized short clips flawlessly.</p>
+        <p>💻 <b>Stack:</b> <code>Python</code>, <code>MoviePy</code>, <code>OS Automations</code></p>
+        <a href="https://github.com/Dipanshu-Chouhan-01/video-clip-generator">
+          <img src="https://img.shields.io/badge/ACCESS%20REPO-%E2%9E%A4-00F2FE?style=for-the-badge&labelColor=111" alt="Repo"/>
+        </a>
       </td>
     </tr>
   </table>
+</div>
 
+---
+
+## 📈 SYSTEM TELEMETRY (GitHub Analytics)
+
+<div align="center">
+  <table border="0" cellspacing="0" cellpadding="0">
+    <tr>
+      <td align="center" valign="top">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dipanshu-Chouhan-01&theme=tokyonight&hide_border=true&background=0D1117&sideNums=00F2FE&sideTitle=00F2FE" alt="GitHub Streak" width="95%" />
+      </td>
+      <td align="center" valign="top">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dipanshu-Chouhan-01&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F2FE&text_color=ffffff" alt="Top Languages" width="95%" />
+      </td>
+    </tr>
+  </table>
+  
   <br/>
+  
+  <!-- REAL-TIME NEON WAVE ACTIVITY GRAPH -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dipanshu-Chouhan-01&bg_color=0D1117&color=00F2FE&line=00F2FE&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Activity Graph" />
 </div>
 
 ---
 
+<!-- AESTHETIC GEN-Z WAFTING FOOTER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/type=waving&color=00F2FE&height=60&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/type=waving&color=00F2FE&height=70&section=footer" width="100%"/>
+  <p style="font-family: monospace; color: #00F2FE;">⚡ Built with absolute precision by Dipanshu ⚡</p>
 </div>
